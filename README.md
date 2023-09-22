@@ -1,6 +1,6 @@
 # Learning Outcomes
 
-This project will teach you how to work with arrays in Java. You will be dealing with algorithms for generating the playfield and processing player moves.
+This project taught me how to work with arrays in Java. I have dealt with algorithms for generating the playfield and processing player moves.
 
 ## The Project
 
