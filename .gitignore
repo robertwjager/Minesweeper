@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper (Java)/task/build/
+/Minesweeper (Java)/task/out/
+/Minesweeper (Java)/task/out/production/classes/
+/Topics/Random/Find the seed/out/
+/Topics/Random/Find the seed/out/production/classes/

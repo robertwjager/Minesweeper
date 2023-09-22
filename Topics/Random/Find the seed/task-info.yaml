@@ -1,0 +1,33 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.*;
+
+    public class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4940#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 5. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    0 100 5 1000
+    Correct output:
+    18
+    270
+
+    Your code output:
+    0 11
+  time: "Tue, 15 Aug 2023 12:41:07 UTC"
+record: -1
+submission_language: java17
